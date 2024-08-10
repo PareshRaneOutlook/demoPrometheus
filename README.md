@@ -23,7 +23,7 @@ kubectl --help
 minikube status
  ```
 
-### 1,2. Install Helm
+### 1.2 Install Helm
 
 ```sh
 On minikube use  (https://helm.sh/ )
